@@ -1,6 +1,6 @@
 {
   "name": "snowutils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JavaScript library of utility methods",
   "main": "lib/snowutils.min.js",
   "scripts": {
